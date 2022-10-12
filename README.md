@@ -1,2 +1,2 @@
 # ImgBed
-我的图床
+My figure bed
